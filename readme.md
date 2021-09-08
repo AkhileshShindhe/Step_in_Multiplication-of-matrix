@@ -1,1 +1,2 @@
 [![Unit Testing - Unity](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/unity.yml)
+[![Makefile](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/Makefile.yml/badge.svg)](https://github.com/AkhileshShindhe/Step_in_cashflow-management-system/actions/workflows/Makefile.yml)
